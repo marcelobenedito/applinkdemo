@@ -2,6 +2,10 @@
 
 A simple app to demonstrate how to use Android App Links
 
+<p align="center">
+  <img src="./asset-docs/applinkdemo_screenshot.png" width="350px" alt="Screenshot displaying the popup with option to open the app through the app link.">
+</p>
+
 ## How to test
 
 1. Run the app
